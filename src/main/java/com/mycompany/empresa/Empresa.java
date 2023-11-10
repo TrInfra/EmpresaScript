@@ -93,7 +93,7 @@ public class Empresa {
                 System.out.println("\nNome: " + produto.getNome());
                 System.out.println("\nPreço: " + produto.getPreco());
             }
-2
+
             System.out.println("--------------------");
 
         }
